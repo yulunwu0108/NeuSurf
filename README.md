@@ -1,7 +1,7 @@
 # NeuSurf [AAAI'24]
 Implementation of *NeuSurf: On-Surface Priors for Neural Surface Reconstruction from Sparse Input Views*
 
-### [Project Page](https://alvin528.github.io/NeuSurf/) | [Paper](https://arxiv.org/abs/2312.13977)
+### [Project Page](https://alvin528.github.io/NeuSurf/) | [Paper](https://arxiv.org/abs/2312.13977) | [Data](https://drive.google.com/drive/folders/18AZw4zi3fNQ-NKttNeVBp9cTja8NBnSA?usp=drive_link)
 
 <div align=center>  <img src="./asserts/comparison.png" width=60%> </div>
 
@@ -57,6 +57,8 @@ data
 |-- DTU_sparseneus
 ...
 ```
+
+You can directly download the processed data [here](https://drive.google.com/drive/folders/18AZw4zi3fNQ-NKttNeVBp9cTja8NBnSA?usp=drive_link).
 
 ## Running
 
