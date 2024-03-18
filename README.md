@@ -9,6 +9,7 @@ Implementation of *NeuSurf: On-Surface Priors for Neural Surface Reconstruction 
 
 - [x] Code release (2024.3.18)
 - [ ] Data release
+- [ ] Mesh results release
 
 ## Overview
 
