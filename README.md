@@ -7,8 +7,6 @@ Implementation of *NeuSurf: On-Surface Priors for Neural Surface Reconstruction 
 
 ### TODO
 
-- [x] Code release (2024.3.18)
-- [ ] Data release
 - [ ] Mesh results release
 
 ## Overview
@@ -55,7 +53,7 @@ data
             |-- 001.png
             ...
 |-- DTU_sparseneus
-...
+|-- blendedmvs_sparse
 ```
 
 You can directly download the processed data [here](https://drive.google.com/drive/folders/18AZw4zi3fNQ-NKttNeVBp9cTja8NBnSA?usp=drive_link).
