@@ -19,6 +19,7 @@ Our code is implemented in Python 3.10, PyTorch 2.0.0 and CUDA 11.7.
 - Install Python dependencies
 ```
 conda create -n neusurf python=3.10
+conda activate neusurf
 pip install torch==2.0.0 torchvision==0.15.1
 pip install -r requirements.txt
 ```
