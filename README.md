@@ -1,13 +1,9 @@
-# NeuSurf [AAAI'24]
-Implementation of *NeuSurf: On-Surface Priors for Neural Surface Reconstruction from Sparse Input Views*
+# NeuSurf
+Implementation of AAAI'24 paper *NeuSurf: On-Surface Priors for Neural Surface Reconstruction from Sparse Input Views*
 
-### [Project Page](https://alvin528.github.io/NeuSurf/) | [Paper](https://arxiv.org/abs/2312.13977) | [Data](https://drive.google.com/drive/folders/18AZw4zi3fNQ-NKttNeVBp9cTja8NBnSA?usp=drive_link)
+### [Project Page](https://alvin528.github.io/NeuSurf/) | [Paper](https://arxiv.org/abs/2312.13977) | [Data](https://drive.google.com/drive/folders/18AZw4zi3fNQ-NKttNeVBp9cTja8NBnSA?usp=drive_link) | [Mesh Results](https://drive.google.com/drive/folders/1PVDJNa68OQm7Cisz2_CVNGQb4Zp40HSm?usp=sharing)
 
 <div align=center>  <img src="./asserts/comparison.png" width=60%> </div>
-
-### TODO
-
-- [ ] Mesh results release
 
 ## Overview
 
