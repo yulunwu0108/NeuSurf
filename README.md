@@ -77,15 +77,15 @@ python exp_runner.py --mode validate_mesh --conf ./confs/dtu.conf --case <case_n
 
 If you find our work useful in your research, please consider citing:
 
-```
+```bibtex
 @inproceedings{huang2024neusurf,
-  title={NeuSurf: On-Surface Priors for Neural Surface Reconstruction from Sparse Input Views},
-  author={Huang, Han and Wu, Yulun and Zhou, Junsheng and Gao, Ge and Gu, Ming and Liu, Yu-Shen},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={38},
-  number={3},
-  pages={2312--2320},
-  year={2024}
+    title={NeuSurf: On-Surface Priors for Neural Surface Reconstruction from Sparse Input Views},
+    author={Huang, Han and Wu, Yulun and Zhou, Junsheng and Gao, Ge and Gu, Ming and Liu, Yu-Shen},
+    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+    volume={38},
+    number={3},
+    pages={2312--2320},
+    year={2024}
 }
 ```
 
