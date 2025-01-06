@@ -3,11 +3,11 @@ Implementation of AAAI'24 paper *NeuSurf: On-Surface Priors for Neural Surface R
 
 ### [Project Page](https://alvin528.github.io/NeuSurf/) | [Paper](https://arxiv.org/abs/2312.13977) | [Data](https://drive.google.com/drive/folders/18AZw4zi3fNQ-NKttNeVBp9cTja8NBnSA?usp=drive_link) | [Mesh Results](https://drive.google.com/drive/folders/1PVDJNa68OQm7Cisz2_CVNGQb4Zp40HSm?usp=sharing)
 
-<div align=center>  <img src="./asserts/comparison.png" width=60%> </div>
+<div align=center>  <img src="./media/comparison.png" width=60%> </div>
 
 ## Overview
 
-<div align=center>  <img src="./asserts/pipeline.png" width=100%> </div>
+<div align=center>  <img src="./media/pipeline.png" width=100%> </div>
 
 ## Installation
 
